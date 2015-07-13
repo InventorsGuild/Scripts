@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -m -G users,audio,lp,video -s /bin/bash $1
+useradd -m -G users,audio,lp,video,sudo,admin -s /bin/bash $1
